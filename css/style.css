@@ -43,21 +43,21 @@ body{
 
 .contacts-title{
     color: #ffffff;
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 700;
     line-height: 24px;
     margin-bottom: 20px;
 }
 .contacts-link{
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     font-style: normal;
     color:#d8d8d8;
 }
 .contacts-link-type{
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 24px;
     margin-right: 10px;
@@ -78,7 +78,7 @@ body{
 }
 
 .techskillsitem{
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 24px;
     margin-left: 15px;
@@ -106,8 +106,8 @@ body{
 }
 
 .softskillsitem{
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 300;
     line-height: 24px;
     margin-left: 15px;
     color: #ff6b08;
@@ -130,7 +130,7 @@ body{
     line-height: 89px;
 }
 .description{
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
@@ -154,7 +154,7 @@ body{
     width: 189px;
     height: 63px;
     color: #595959;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 24px;
 }
@@ -162,7 +162,7 @@ body{
     width: 189px;
     height: 63px;
     color: #595959;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     line-height: 24px;
 }
@@ -182,7 +182,7 @@ body{
 .positiontype{
     color: #000000;
     font-family: Montserrat;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
     margin-bottom: 15px;
     margin-top: 8px;
@@ -195,7 +195,7 @@ body{
 .timework{
     color: #2c2848;
     font-family: Montserrat;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 400;
 }
 
@@ -205,7 +205,7 @@ body{
 .dutiesdescribption{
     color: #2c2848;
 font-family: Montserrat;
-font-size: 14px;
+font-size: 18px;
 font-weight: 400;
 font-style: normal;
 letter-spacing: normal;
