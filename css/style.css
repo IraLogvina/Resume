@@ -141,7 +141,7 @@ body{
     margin-bottom: 25px;
 }
 .projects{
-    width: 200px;
+    /* width: 200px; */
     height: 18px;
     color: #000000;
     font-family: Montserrat;
@@ -168,7 +168,7 @@ body{
 }
 
 .dots{
-    color: #bebebe;
+    color: #2c2848;
 }
 
 .projectsitem{
@@ -192,7 +192,7 @@ body{
     color: #ff6b08;
 }
 .timework{
-    color: #a8a8a8;
+    color: #2c2848;
     font-family: Montserrat;
     font-size: 12px;
     font-weight: 400;
@@ -202,7 +202,7 @@ body{
     margin-top: 14px;
 }
 .dutiesdescribption{
-    color: #595959;
+    color: #2c2848;
 font-family: Montserrat;
 font-size: 14px;
 font-weight: 400;
@@ -226,16 +226,16 @@ color: black;
 
 .projects-link{
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     font-style: normal;
     color:#2c2848;
 }
 
 .projectsDescription{
-    color: #a8a8a8;
+    color: #000000;
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
@@ -244,12 +244,22 @@ color: black;
 }
 
 .summury{
-    color: #595959;
+    color: #2c2848;
 font-family: Montserrat;
-font-size: 14px;
+font-size: 18px;
 font-weight: 400;
 font-style: normal;
 letter-spacing: normal;
 line-height: 24px;
 margin-bottom: 20px;
+}
+
+.projects-link-2{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color:#ff6b08;
+    margin-left: 5px;
+    margin-right: 5px;
 }
