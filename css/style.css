@@ -30,8 +30,8 @@ body{
 .about-me-container{
     padding-left: 90px;
     padding-right: 90px;
-    padding-top: 110px;
-    padding-bottom: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .contacts-Container{
@@ -119,7 +119,7 @@ body{
 }
 
 .profession{
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 24px;
     margin-bottom: 23px;
@@ -138,7 +138,7 @@ body{
     margin-top: 24px;
 }
 .maininfo{
-    margin-bottom: 65px;
+    margin-bottom: 25px;
 }
 .projects{
     width: 200px;
@@ -147,7 +147,8 @@ body{
     font-family: Montserrat;
     font-size: 22px;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    margin-top: 40px;
 }
 .projectlink{
     width: 189px;
@@ -174,8 +175,9 @@ body{
     font-weight: 700;
     margin-left: 18px;
 }
-.projectsc{
+.projectsс{
     margin-bottom: 55px;
+
 }
 .positiontype{
     color: #000000;
@@ -200,6 +202,48 @@ body{
     margin-top: 14px;
 }
 .dutiesdescribption{
+    color: #595959;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 24px;
+margin-bottom: 20px;
+}
+
+.projectsLink{
+color: black;
+}
+
+.SoftSkillsP{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #000000
+}
+
+.projects-link{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    color:#2c2848;
+}
+
+.projectsDescription{
+    color: #a8a8a8;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.summury{
     color: #595959;
 font-family: Montserrat;
 font-size: 14px;
